@@ -1,56 +1,27 @@
-2019-06-24 11:38:38,646 pyclaw.controller INFO CLAW: 419 - Solution 0 computed for time t=0.000000
-2019-06-24 11:38:38,648 pyclaw.controller INFO CLAW: 419 - Solution 1 computed for time t=0.020000
-2019-06-24 11:38:38,649 pyclaw.controller INFO CLAW: 419 - Solution 2 computed for time t=0.040000
-2019-06-24 11:38:38,651 pyclaw.controller INFO CLAW: 419 - Solution 3 computed for time t=0.060000
-2019-06-24 11:38:38,652 pyclaw.controller INFO CLAW: 419 - Solution 4 computed for time t=0.080000
-2019-06-24 11:38:38,654 pyclaw.controller INFO CLAW: 419 - Solution 5 computed for time t=0.100000
-2019-06-24 11:38:38,655 pyclaw.controller INFO CLAW: 419 - Solution 6 computed for time t=0.120000
-2019-06-24 11:38:38,656 pyclaw.controller INFO CLAW: 419 - Solution 7 computed for time t=0.140000
-2019-06-24 11:38:38,658 pyclaw.controller INFO CLAW: 419 - Solution 8 computed for time t=0.160000
-2019-06-24 11:38:38,659 pyclaw.controller INFO CLAW: 419 - Solution 9 computed for time t=0.180000
-2019-06-24 11:38:38,661 pyclaw.controller INFO CLAW: 419 - Solution 10 computed for time t=0.200000
-2019-06-24 11:38:38,663 pyclaw.controller INFO CLAW: 419 - Solution 11 computed for time t=0.220000
-2019-06-24 11:38:38,664 pyclaw.controller INFO CLAW: 419 - Solution 12 computed for time t=0.240000
-2019-06-24 11:38:38,666 pyclaw.controller INFO CLAW: 419 - Solution 13 computed for time t=0.260000
-2019-06-24 11:38:38,668 pyclaw.controller INFO CLAW: 419 - Solution 14 computed for time t=0.280000
-2019-06-24 11:38:38,670 pyclaw.controller INFO CLAW: 419 - Solution 15 computed for time t=0.300000
-2019-06-24 11:38:38,671 pyclaw.controller INFO CLAW: 419 - Solution 16 computed for time t=0.320000
-2019-06-24 11:38:38,673 pyclaw.controller INFO CLAW: 419 - Solution 17 computed for time t=0.340000
-2019-06-24 11:38:38,674 pyclaw.controller INFO CLAW: 419 - Solution 18 computed for time t=0.360000
-2019-06-24 11:38:38,675 pyclaw.controller INFO CLAW: 419 - Solution 19 computed for time t=0.380000
-2019-06-24 11:38:38,677 pyclaw.controller INFO CLAW: 419 - Solution 20 computed for time t=0.400000
-2019-06-24 11:38:38,679 pyclaw.controller INFO CLAW: 419 - Solution 21 computed for time t=0.420000
-2019-06-24 11:38:38,680 pyclaw.controller INFO CLAW: 419 - Solution 22 computed for time t=0.440000
-2019-06-24 11:38:38,682 pyclaw.controller INFO CLAW: 419 - Solution 23 computed for time t=0.460000
-2019-06-24 11:38:38,684 pyclaw.controller INFO CLAW: 419 - Solution 24 computed for time t=0.480000
-2019-06-24 11:38:38,686 pyclaw.controller INFO CLAW: 419 - Solution 25 computed for time t=0.500000
-2019-06-24 11:38:38,688 pyclaw.controller INFO CLAW: 419 - Solution 26 computed for time t=0.520000
-2019-06-24 11:38:38,689 pyclaw.controller INFO CLAW: 419 - Solution 27 computed for time t=0.540000
-2019-06-24 11:38:38,691 pyclaw.controller INFO CLAW: 419 - Solution 28 computed for time t=0.560000
-2019-06-24 11:38:38,692 pyclaw.controller INFO CLAW: 419 - Solution 29 computed for time t=0.580000
-2019-06-24 11:38:38,694 pyclaw.controller INFO CLAW: 419 - Solution 30 computed for time t=0.600000
-2019-06-24 11:38:38,696 pyclaw.controller INFO CLAW: 419 - Solution 31 computed for time t=0.620000
-2019-06-24 11:38:38,697 pyclaw.controller INFO CLAW: 419 - Solution 32 computed for time t=0.640000
-2019-06-24 11:38:38,699 pyclaw.controller INFO CLAW: 419 - Solution 33 computed for time t=0.660000
-2019-06-24 11:38:38,701 pyclaw.controller INFO CLAW: 419 - Solution 34 computed for time t=0.680000
-2019-06-24 11:38:38,703 pyclaw.controller INFO CLAW: 419 - Solution 35 computed for time t=0.700000
-2019-06-24 11:38:38,705 pyclaw.controller INFO CLAW: 419 - Solution 36 computed for time t=0.720000
-2019-06-24 11:38:38,707 pyclaw.controller INFO CLAW: 419 - Solution 37 computed for time t=0.740000
-2019-06-24 11:38:38,709 pyclaw.controller INFO CLAW: 419 - Solution 38 computed for time t=0.760000
-2019-06-24 11:38:38,711 pyclaw.controller INFO CLAW: 419 - Solution 39 computed for time t=0.780000
-2019-06-24 11:38:38,713 pyclaw.controller INFO CLAW: 419 - Solution 40 computed for time t=0.800000
-2019-06-24 11:38:38,715 pyclaw.controller INFO CLAW: 419 - Solution 41 computed for time t=0.820000
-2019-06-24 11:38:38,717 pyclaw.controller INFO CLAW: 419 - Solution 42 computed for time t=0.840000
-2019-06-24 11:38:38,719 pyclaw.controller INFO CLAW: 419 - Solution 43 computed for time t=0.860000
-2019-06-24 11:38:38,721 pyclaw.controller INFO CLAW: 419 - Solution 44 computed for time t=0.880000
-2019-06-24 11:38:38,723 pyclaw.controller INFO CLAW: 419 - Solution 45 computed for time t=0.900000
-2019-06-24 11:38:38,725 pyclaw.controller INFO CLAW: 419 - Solution 46 computed for time t=0.920000
-2019-06-24 11:38:38,727 pyclaw.controller INFO CLAW: 419 - Solution 47 computed for time t=0.940000
-2019-06-24 11:38:38,729 pyclaw.controller INFO CLAW: 419 - Solution 48 computed for time t=0.960000
-2019-06-24 11:38:38,730 pyclaw.controller INFO CLAW: 419 - Solution 49 computed for time t=0.980000
-2019-06-24 11:38:38,732 pyclaw.controller INFO CLAW: 419 - Solution 50 computed for time t=1.000000
-2019-06-24 11:40:06,074 matplotlib.animation INFO CLAW: 1146 - Animation.save using <class 'clawpack.visclaw.JSAnimation.html_writer.HTMLWriter'>
-2019-06-24 11:40:28,098 root ERROR CLAW: 221 - Invalid alias: The name clear can't be aliased because it is another magic command.
-2019-06-24 11:40:28,099 root ERROR CLAW: 221 - Invalid alias: The name more can't be aliased because it is another magic command.
-2019-06-24 11:40:28,099 root ERROR CLAW: 221 - Invalid alias: The name less can't be aliased because it is another magic command.
-2019-06-24 11:40:28,100 root ERROR CLAW: 221 - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-24 11:43:07,617 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.0
+2019-06-24 11:43:07,617 pyclaw.controller INFO CLAW: 419 - Solution 0 computed for time t=0.000000
+2019-06-24 11:43:07,624 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.04
+2019-06-24 11:43:07,624 pyclaw.controller INFO CLAW: 419 - Solution 1 computed for time t=0.040000
+2019-06-24 11:43:07,630 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.08
+2019-06-24 11:43:07,630 pyclaw.controller INFO CLAW: 419 - Solution 2 computed for time t=0.080000
+2019-06-24 11:43:07,636 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.12
+2019-06-24 11:43:07,636 pyclaw.controller INFO CLAW: 419 - Solution 3 computed for time t=0.120000
+2019-06-24 11:43:07,643 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.16
+2019-06-24 11:43:07,643 pyclaw.controller INFO CLAW: 419 - Solution 4 computed for time t=0.160000
+2019-06-24 11:43:07,649 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.2
+2019-06-24 11:43:07,649 pyclaw.controller INFO CLAW: 419 - Solution 5 computed for time t=0.200000
+2019-06-24 11:43:07,655 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.24
+2019-06-24 11:43:07,655 pyclaw.controller INFO CLAW: 419 - Solution 6 computed for time t=0.240000
+2019-06-24 11:43:07,664 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.28
+2019-06-24 11:43:07,664 pyclaw.controller INFO CLAW: 419 - Solution 7 computed for time t=0.280000
+2019-06-24 11:43:07,683 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.32
+2019-06-24 11:43:07,684 pyclaw.controller INFO CLAW: 419 - Solution 8 computed for time t=0.320000
+2019-06-24 11:43:07,695 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.36
+2019-06-24 11:43:07,695 pyclaw.controller INFO CLAW: 419 - Solution 9 computed for time t=0.360000
+2019-06-24 11:43:07,708 pyclaw.fileio INFO CLAW: 301 - Wrote out solution in format ascii for time t=0.4
+2019-06-24 11:43:07,708 pyclaw.controller INFO CLAW: 419 - Solution 10 computed for time t=0.400000
+2019-06-24 11:43:11,914 matplotlib.animation INFO CLAW: 1146 - Animation.save using <class 'clawpack.visclaw.JSAnimation.html_writer.HTMLWriter'>
+2019-06-24 11:43:31,065 root ERROR CLAW: 221 - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-24 11:43:31,066 root ERROR CLAW: 221 - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-24 11:43:31,066 root ERROR CLAW: 221 - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-24 11:43:31,067 root ERROR CLAW: 221 - Invalid alias: The name man can't be aliased because it is another magic command.
